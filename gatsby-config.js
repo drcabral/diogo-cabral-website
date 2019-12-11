@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Diogo Cabral`,
     position: `Android Developer`,
-    description: `Minhas skills, interesses, conteúdos criados para a comunidade e projetos realizados.`,
+    description: `Consultor de desenvolvimento na ThoughtWorks. Curioso sobre o universo mobile, viajante em ascensão, palpiteiro gastronômico e apreciador de conteúdo geek.`,
     author: `@drcabral`,
   },
   plugins: [
