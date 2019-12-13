@@ -1,9 +1,9 @@
 ---
-date: 2015-01-05 05:54:23
-title: Lorem lorem ipsum
-description: And I'm lorem sure lorem
-category: JS
-background: "#FCD12A"
+date: 2014-01-31 06:54:23
+title: Waiting to die
+description: So boring.
+category: Dev
+background: "#700B13"
 ---
 
 # Lorem ipsum

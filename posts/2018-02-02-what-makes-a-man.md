@@ -1,7 +1,7 @@
 ---
-date: 2015-01-05 05:54:23
-title: Lorem lorem ipsum
-description: And I'm lorem sure lorem
+date: 2018-02-02 05:54:23
+title: What makes a man
+description: I don't know yet.
 category: JS
 background: "#FCD12A"
 ---

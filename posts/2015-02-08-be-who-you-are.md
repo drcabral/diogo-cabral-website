@@ -1,9 +1,9 @@
 ---
-date: 2015-01-05 05:54:23
-title: Lorem lorem ipsum
-description: And I'm lorem sure lorem
-category: JS
-background: "#FCD12A"
+date: 2015-02-08 07:24:23
+title: Be who you are
+description: And I'm sure that this is correct.
+category: Misc
+background: "#7AAB13"
 ---
 
 # Lorem ipsum

@@ -1,9 +1,9 @@
 ---
-date: 2015-01-05 05:54:23
-title: Lorem lorem ipsum
-description: And I'm lorem sure lorem
-category: JS
-background: "#FCD12A"
+date: 2015-02-10 13:54:23
+title: You only live once
+description: Be aware of this.
+category: Dev
+background: "#700B13"
 ---
 
 # Lorem ipsum

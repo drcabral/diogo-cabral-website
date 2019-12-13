@@ -1,9 +1,9 @@
 ---
-date: 2015-01-05 05:54:23
-title: Lorem lorem ipsum
-description: And I'm lorem sure lorem
-category: JS
-background: "#FCD12A"
+date: 2016-01-10 08:54:23
+title: Imperfection is beauty
+description: Look at yourself and smile.
+category: Misc
+background: "#7AAB13"
 ---
 
 # Lorem ipsum
