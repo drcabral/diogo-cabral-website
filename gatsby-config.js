@@ -8,7 +8,7 @@ module.exports = {
     position: `Android Developer`,
     description: `Consultor de desenvolvimento na ThoughtWorks. Curioso sobre o universo mobile, viajante em ascensão, palpiteiro gastronômico e apreciador de conteúdo geek.`,
     author: `@drcabrales`,
-    siteUrl: `https://diogocabral.dev`,
+    siteUrl: `https://www.diogocabral.dev/`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
@@ -85,5 +85,6 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 }
