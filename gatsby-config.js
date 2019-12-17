@@ -7,7 +7,8 @@ module.exports = {
     title: `Diogo Cabral`,
     position: `Android Developer`,
     description: `Consultor de desenvolvimento na ThoughtWorks. Curioso sobre o universo mobile, viajante em ascensão, palpiteiro gastronômico e apreciador de conteúdo geek.`,
-    author: `@drcabral`,
+    author: `@drcabrales`,
+    siteUrl: `https://diogocabral.dev`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
