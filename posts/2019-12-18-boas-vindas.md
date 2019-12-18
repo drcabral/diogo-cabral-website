@@ -1,6 +1,6 @@
 ---
 title: O Famoso primeiro post
-description: "Sobre mim, motivações e o que você vai encontrar nesse blog?"
+description: "Sobre mim, motivações e o que você vai encontrar nesse blog"
 date: "2019-12-18 11:07:33"
 image: /assets/img/cover.png
 category: misc
