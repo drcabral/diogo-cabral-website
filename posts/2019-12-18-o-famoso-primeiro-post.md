@@ -4,7 +4,7 @@ description: "Sobre mim, motivações e o que você vai encontrar nesse blog"
 date: "2019-12-18 11:07:33"
 image: /assets/img/cover.png
 category: misc
-background: "#7AAB13"
+background: "#2F9599"
 ---
 
 Como todo e qualquer blog (acredito eu) sempre existe o clichê do primeiro post, post de boas vindas, ou como queira chamar, e claro que aqui não seria diferente.
