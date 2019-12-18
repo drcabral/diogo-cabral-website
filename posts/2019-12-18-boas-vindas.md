@@ -1,9 +1,11 @@
 ---
-title: Boas vindas!
-description: Porque criei este blog?
+title: O Famoso primeiro post
+description: Motivações e o que você vai encontrar nesse blog?
 date: '2019-12-18 11:07:33'
 thumbnail: /assets/img/cover.png
 category: misc
 background: '#7AAB13'
 ---
-# Esse o famoso primeiro post
+# O famoso primeiro post
+
+Olá! Eu sou Diogo Cabral, atualmente atuo como Consultor de Desenvolvimento mobile, com foco na plataforma Android
