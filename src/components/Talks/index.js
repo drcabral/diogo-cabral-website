@@ -85,6 +85,17 @@ const Talks = () => (
         </ul>
       </li>
     </ul>
+    <h1>Uso do conteúdo</h1>
+    <p>
+      Todo e qualquer conhecimento compartilhado nesse repositório é de livre
+      utilização. Acredito que o conhecimento adquirido deve ser algo que possa
+      ser utilizado por qualquer pessoa sem nenhum tipo de barreira.
+    </p>
+    <p>
+      Se você curtiu muito alguma desses materiais de talks que já fiz, e
+      utilizou em algum outro conteúdo que você esteja criando, fico imensamente
+      feliz (mais ainda se puder me referenciar neles!)
+    </p>
   </S.TalksContent>
 )
 
