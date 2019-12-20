@@ -20,19 +20,19 @@ Special thanks to [Willian Justen](https://willianjusten.com.br/) that made his 
 
 ## 🚀 Installing
 
-    Install Gatsby CLI
+1. **Install Gatsby CLI**
 
     ```shell
     npm install -g gatsby-cli
     ```
 
-    Install dependencies
+2. **Install dependencies**
 
     ```shell
     npm install
     ```
 
-    Add Algolia keys
+3. **Add Algolia keys**
 
     ```
     GATSBY_ALGOLIA_APP_ID=XXXX
