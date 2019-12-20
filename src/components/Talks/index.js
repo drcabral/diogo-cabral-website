@@ -7,13 +7,13 @@ const Talks = () => (
     <h1>Palestras</h1>
     <ul>
       <li>
-        <a href="" target="__blank" rel="noopener noreferrer">
+        <a href="https://docs.google.com/presentation/d/1Xq5t4bzOofbXlQL3diwtntTNeiVuEEg1Md0_SA-eab8/edit#slide=id.p" target="__blank" rel="noopener noreferrer">
           Android way to pro: Roadmap 2019
         </a>
         <ul>
           <li>
             Apresentação criada e realizada junto com{" "}
-            <a href="" target="__blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/anacoimbrag/" target="__blank" rel="noopener noreferrer">
               Ana Coimbra
             </a>
           </li>
@@ -24,7 +24,7 @@ const Talks = () => (
         </ul>
       </li>
       <li>
-        <a href="" target="__blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1LwXkcxMopxo-hy-Ax5ol0OcDtcT8Q4yU/view?usp=sharing" target="__blank" rel="noopener noreferrer">
           Arquitetura limpa nas apps: utilizando VIPER no Android
         </a>
         <ul>
@@ -35,13 +35,13 @@ const Talks = () => (
         </ul>
       </li>
       <li>
-        <a href="" target="__blank" rel="noopener noreferrer">
+        <a href="https://docs.google.com/presentation/d/1VV1ZV1l85yKq_bU93I4iJKlERwJpDyNggTkMruFMElk/edit?usp=sharing" target="__blank" rel="noopener noreferrer">
           Fundamentos Android: do 0 à minha primeira app
         </a>
         <ul>
           <li>
             Apresentação criada e realizada junto com{" "}
-            <a href="" target="__blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/marcellasouza/" target="__blank" rel="noopener noreferrer">
               Marcella Souza
             </a>
           </li>
@@ -49,7 +49,7 @@ const Talks = () => (
         </ul>
       </li>
       <li>
-        <a href="" target="__blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/14EpYtILlQsUg5GMrATTbLQT2j_dUc6vG/view?usp=sharing" target="__blank" rel="noopener noreferrer">
           Perceived Performance
         </a>
         <ul>
@@ -57,13 +57,13 @@ const Talks = () => (
         </ul>
       </li>
       <li>
-        <a href="" target="__blank" rel="noopener noreferrer">
+        <a href="https://docs.google.com/presentation/d/1U4j8c0sdWwSXF4lmxKWJiU-qhjeKABZoFgDOmAmqDpU/edit?usp=sharing" target="__blank" rel="noopener noreferrer">
           Clean Code 101: Do caos ao nirvana em poucos passos
         </a>
         <ul>
           <li>
             Apresentação criada e realizada junto com{" "}
-            <a href="" target="__blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/gabrielly-gomes-362770b0/" target="__blank" rel="noopener noreferrer">
               Gabrielly Gomes
             </a>
           </li>
@@ -71,13 +71,13 @@ const Talks = () => (
         </ul>
       </li>
       <li>
-        <a href="" target="__blank" rel="noopener noreferrer">
+        <a href="https://docs.google.com/presentation/d/1X-y0O4hbsOujiF2D75wHLBZM4bnghaxVdTME747krrU/edit?usp=sharing" target="__blank" rel="noopener noreferrer">
           Como você deveria praticar o TDD... realmente?
         </a>
         <ul>
           <li>
             Apresentação criada e realizada junto com{" "}
-            <a href="" target="__blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/priscillaromagnoli/" target="__blank" rel="noopener noreferrer">
               Priscilla Romagnoli
             </a>
           </li>
